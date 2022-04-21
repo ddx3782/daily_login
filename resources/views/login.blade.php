@@ -17,6 +17,7 @@
 				<input type="password" name="password"><br>
 				<button>Login</button><br>
 				Didn't have an account? <a href="{{ url('register') }}">Click Here</a>
+				Didn't have an account? <a href="{{ url('register') }}">Click Here</a>
 
 			</form>
 		</div>
